@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://luuman.github.io/2016/12/27/FrontFrame/ReactNative/Components/RNCTextInput/</loc>
+    <lastmod>2016-11-15T08:58:19.351Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://luuman.github.io/2016/12/25/FrontFrame/ReactNative/RNTools/</loc>
     <lastmod>2016-11-11T02:44:31.574Z</lastmod>
   </url>
@@ -9,11 +14,6 @@
   <url>
     <loc>http://luuman.github.io/2016/12/27/FrontFrame/ReactNative/Components/RNComponents/</loc>
     <lastmod>2016-11-10T07:34:14.045Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://luuman.github.io/2016/12/27/FrontFrame/ReactNative/Components/RNCTextInput/</loc>
-    <lastmod>2016-11-08T10:23:34.456Z</lastmod>
   </url>
   
   <url>
